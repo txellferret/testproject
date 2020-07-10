@@ -1,3 +1,5 @@
 hola aixo es una prova 
 
 nova linia
+
+Avui es dia 10/07/2020. ja casi he acabat el curs de git, i estic fent proves
